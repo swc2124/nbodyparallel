@@ -8,8 +8,8 @@
 # ====================================================================
 #
 # Version 2 mpi nbody
-import sys
 import mpinbd_lib as lib  # Homemade Code!
+import sys
 #<Begin: loading>
 if lib.am_head_observer():
     print "Loading..."

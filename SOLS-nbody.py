@@ -8,9 +8,10 @@
 # ====================================================================
 #
 #<Begin: Imports>
-from mpi4py import MPI
 import numpy as np
 import sys
+
+from mpi4py import MPI
 #<End: Imports>
 #<Begin: Command Line Args>
 TIMESTEPS = 100

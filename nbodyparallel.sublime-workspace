@@ -1,0 +1,1741 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_lib.py",
+			"settings":
+			{
+				"buffer_size": 2965,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_terminal.py",
+			"settings":
+			{
+				"buffer_size": 11010,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_gui.py",
+			"settings":
+			{
+				"buffer_size": 26034,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/templates/headers/Python.tmpl",
+			"settings":
+			{
+				"buffer_size": 438,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/ImagePop/ImagePop.sublime-project",
+			"settings":
+			{
+				"buffer_size": 599,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/templates/headers/header.tmpl",
+			"settings":
+			{
+				"buffer_size": 336,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/UDP_Client.py",
+			"settings":
+			{
+				"buffer_size": 3028,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Text_Parser.py",
+			"settings":
+			{
+				"buffer_size": 11509,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Text_Cleaner.py",
+			"settings":
+			{
+				"buffer_size": 13524,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Ripper.py",
+			"settings":
+			{
+				"buffer_size": 3158,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Controller.py",
+			"settings":
+			{
+				"buffer_size": 5275,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/test.py",
+			"settings":
+			{
+				"buffer_size": 2787,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/StreamerV2.py",
+			"settings":
+			{
+				"buffer_size": 2016,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/slistener_v2.py",
+			"settings":
+			{
+				"buffer_size": 3163,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/slistener.py",
+			"settings":
+			{
+				"buffer_size": 3368,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Client_test.py",
+			"settings":
+			{
+				"buffer_size": 862,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "nbodyparallel.sublime-project",
+			"settings":
+			{
+				"buffer_size": 481,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 619.0,
+		"last_filter": "inst",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"del",
+				"Delete Blank Lines"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Install Package Control"
+			]
+		],
+		"width": 966.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/swc21/Documents/GitHub"
+	],
+	"file_history":
+	[
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/AutoPep8.sublime-settings",
+		"/C/Users/swc21/Documents/GitHub/nbodyparallel/nbodyparallel.sublime-project",
+		"/C/Users/swc21/Documents/GitHub/ImagePop/ImagePop.sublime-project",
+		"/C/Users/swc21/Documents/GitHub/solersystem/Solersystem.py",
+		"/C/Users/swc21/Documents/GitHub/solersystem/SOLS-nbody.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/starcat/__init__.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/starcat/gui_plotlib.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/starcat/make_mix.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_gui.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_terminal.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/starcat/wingtips.py",
+		"/C/Users/swc21/Documents/GitHub/starcat/setup.py",
+		"/C/Users/swc21/Documents/GitHub/ImagePop/ImagePop.py",
+		"/C/Users/swc21/Documents/GitHub/ImagePop/ImagePopLib.py",
+		"/C/Users/swc21/Documents/GitHub/ImagePop/png.py",
+		"/C/Users/swc21/Documents/GitHub/ImagePop/starfind.py",
+		"/C/Users/swc21/Documents/GitHub/nbodyparallel/mpinbd.py",
+		"/C/Users/swc21/Documents/GitHub/nbodyparallel/mpinbd_lib.py",
+		"/C/Users/swc21/Documents/GitHub/nbodyparallel/SOLS-nbody.py",
+		"/C/Users/swc21/Documents/GitHub/oldplottingtools/plot.py",
+		"/C/Users/swc21/Documents/GitHub/oldplottingtools/plot2.py",
+		"/C/Users/swc21/Documents/GitHub/oldplottingtools/sat_auto_save_3x3.py",
+		"/C/Users/swc21/Documents/GitHub/oldplottingtools/sat_comp.py",
+		"/C/Users/swc21/Documents/GitHub/oldplottingtools/sat_comp_single_3x3.py",
+		"/C/Users/swc21/Documents/GitHub/oldplottingtools/sat_save.py",
+		"/C/Users/swc21/Documents/GitHub/parallelmodelfitting/evenbetterfit.py",
+		"/C/Users/swc21/Documents/GitHub/twitterlistener/UDP_Client.py",
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/C/Users/swc21/Documents/GitHub/ParallelMonteCarlo/dist_bsize_cluster.py",
+		"/C/Users/swc21/Documents/GitHub/ParallelMonteCarlo/carlos_parallel2.py",
+		"/C/Users/swc21/Documents/GitHub/ParallelMonteCarlo/distanceByboxsize.py",
+		"/C/Users/swc21/Documents/GitHub/ParallelMonteCarlo/parallel_IO_test.py",
+		"/C/Users/swc21/Documents/GitHub/RaspberryPiLog/log.py",
+		"/C/Users/swc21/Documents/GitHub/RaspberryPiLog/shutdown.py",
+		"/C/Users/swc21/Documents/GitHub/RaspberryPiLog/Status_Update.py",
+		"/C/Users/swc21/Documents/GitHub/RaspberryPiLog/UDP_Client.py",
+		"/C/Users/swc21/Documents/GitHub/RaspberryPiLog/UDP_Server.py",
+		"/E/ClusterFiles/parallel_IO_test.py",
+		"/E/ClusterFiles/distanceByboxsize.py",
+		"/E/ClusterFiles/carlos_parallel2.py",
+		"/E/ClusterFiles/gxutil.py",
+		"/E/ClusterFiles/Old_Unsorted/Status_Update.py",
+		"/E/ClusterFiles/bestfit/bestfit.py",
+		"/E/ClusterFiles/Old_Unsorted/parallel_IO_test.py",
+		"/E/ClusterFiles/Old_Unsorted/carlos_parallel2.py",
+		"/E/ClusterFiles/Old_Unsorted/plot2.py",
+		"/E/ClusterFiles/Old_Unsorted/plot.py",
+		"/E/ClusterFiles/Old_Unsorted/log.py",
+		"/C/Users/swc21/Documents/GitHub/templates/headers/Python.tmpl",
+		"/E/ClusterFiles/Old_Unsorted/mpi_nbody.py",
+		"/E/ClusterFiles/Old_Unsorted/Solersystem2.py",
+		"/E/ClusterFiles/Old_Unsorted/SOLS-nbody.py",
+		"/E/ClusterFiles/dist_bsize_cluster.py",
+		"/E/ClusterFiles/Old_Unsorted/scrap.py",
+		"/E/ClusterFiles/Lowell/mpi4py_nbody.py",
+		"/E/ClusterFiles/bestfit/evenbetterfit.py",
+		"/E/ClusterFiles/bestfit/betterfit.py",
+		"/E/ClusterFiles/Old_Unsorted/Listing2.sh",
+		"/E/ClusterFiles/twitterlistener/StreamerV2.py",
+		"/E/ClusterFiles/twitterlistener/test.py",
+		"/E/ClusterFiles/twitterlistener/Twitter_Controller.py",
+		"/E/ClusterFiles/twitterlistener/Twitter_Text_Cleaner.py",
+		"/E/ClusterFiles/twitterlistener/Twitter_Text_Parser.py",
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Packages/User/AutoPep8.sublime-settings",
+		"/E/ClusterFiles/twitterlistener/UDP_Client.py",
+		"/E/ClusterFiles/twitterlistener/slistener.py",
+		"/E/ClusterFiles/twitterlistener/slistener_v2.py",
+		"/E/ClusterFiles/Old_Unsorted/mpi_nbody_newest.py",
+		"/E/ClusterFiles/Tweet_Code/Twitter_Text_Parser.py",
+		"/E/ClusterFiles/.csshrc",
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Packages/User/FileHeader.sublime-settings",
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Packages/FileHeader/FileHeader.sublime-settings",
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Packages/FileHeader/Default (Windows).sublime-keymap",
+		"/E/ClusterFiles/Old_Unsorted/test.py",
+		"/C/Users/swc21/AppData/Roaming/Sublime Text 3/Packages/AutoPEP8/Default.sublime-keymap",
+		"/E/ClusterFiles/UDP_Client.py",
+		"/E/ClusterFiles/sat_save.py",
+		"/E/ClusterFiles/sat_comp_single_3x3.py",
+		"/E/ClusterFiles/sat_comp.py",
+		"/E/ClusterFiles/UDP_Server.py",
+		"/E/ClusterFiles/Tweet_Code/Twitter_Controller.py",
+		"/E/ClusterFiles/shutdown.py",
+		"/E/ClusterFiles/Solersystem.py",
+		"/E/ClusterFiles/version2/mpinbd.py",
+		"/E/ClusterFiles/Tweet_Code/UDP_Client.py",
+		"/E/ClusterFiles/Tweet_Code/Twitter_Text_Cleaner.py",
+		"/E/ClusterFiles/Tweet_Code/Twitter_Streamer_V2.py",
+		"/E/ClusterFiles/Tweet_Code/Twitter_Streamer.py",
+		"/E/ClusterFiles/Tweet_Code/Twitter_Ripper.py",
+		"/E/ClusterFiles/version2/mpinbd_lib.py",
+		"/E/ClusterFiles/Tweet_Code/test.py",
+		"/E/ClusterFiles/Tweet_Code/slistener_v2.py",
+		"/E/ClusterFiles/Tweet_Code/slistener.py",
+		"/E/ClusterFiles/Old_Unsorted/trap_parallel.py",
+		"/E/ClusterFiles/Old_Unsorted/mpi_nbody_newest_lib.py",
+		"/C/Users/swc21/Documents/GitHub/swc2124.github.io/index.html",
+		"/C/Users/swc21/Documents/GitHub/swc2124.github.io/README.md",
+		"/C/Users/swc21/Documents/GitHub/swc2124.github.io/public.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_lib.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2965,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								388,
+								388
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								13,
+								20,
+								11,
+								26,
+								9,
+								58,
+								179,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_terminal.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11010,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								13,
+								20,
+								11,
+								26,
+								9,
+								62,
+								155,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5535.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/swc21/Documents/GitHub/starcat/starcat/starcat_gui.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 26034,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1488,
+								1488
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								13,
+								20,
+								11,
+								26,
+								9,
+								54,
+								203,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/swc21/Documents/GitHub/templates/headers/Python.tmpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 438,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								79,
+								79
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								10,
+								47,
+								5,
+								12,
+								162,
+								146,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/swc21/Documents/GitHub/ImagePop/ImagePop.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 599,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								12,
+								10,
+								7,
+								2,
+								20,
+								14,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/swc21/Documents/GitHub/templates/headers/header.tmpl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								335,
+								335
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								10,
+								39,
+								7,
+								10,
+								116,
+								231,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/UDP_Client.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3028,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								14,
+								24,
+								140,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Text_Parser.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								14,
+								24,
+								140,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Text_Cleaner.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								14,
+								24,
+								140,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Ripper.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								219,
+								131,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Twitter_Controller.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								219,
+								131,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2787,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1927,
+								1927
+							]
+						],
+						"settings":
+						{
+							"autopep8_view_autosave": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								219,
+								131,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/StreamerV2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2016,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"autopep8_view_autosave": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								219,
+								131,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/slistener_v2.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"autopep8_view_autosave": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								219,
+								131,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/slistener.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"autopep8_view_autosave": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								219,
+								131,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "/C/Users/swc21/Documents/GitHub/twitterlistener/Client_test.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"autopep8_view_autosave": true,
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								11,
+								22,
+								31,
+								13,
+								158,
+								120,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "nbodyparallel.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								394,
+								394
+							]
+						],
+						"settings":
+						{
+							"c_time":
+							[
+								128,
+								3,
+								99,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								100,
+								97,
+								116,
+								101,
+								116,
+								105,
+								109,
+								101,
+								10,
+								113,
+								0,
+								67,
+								10,
+								7,
+								226,
+								3,
+								14,
+								12,
+								21,
+								40,
+								6,
+								124,
+								193,
+								113,
+								1,
+								133,
+								113,
+								2,
+								82,
+								113,
+								3,
+								46
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 43.0
+	},
+	"input":
+	{
+		"height": 110.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.autopep8":
+	{
+		"height": 227.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "nbodyparallel.sublime-project",
+	"replace":
+	{
+		"height": 79.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 498.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

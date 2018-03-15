@@ -13,12 +13,13 @@ TIMESTEPS = 5
 STATES_TO_SAVE = 1
 #<End: Parameters>
 #<Begin: Imports>
-from mpi4py import MPI
 import numpy as np
-import sys
 import operator
 import os
+import sys
 import time
+
+from mpi4py import MPI
 #<End: Imports>
 #<Begin: Constants>
 DT = 3e-2*3.154e7  # Time year in s
